@@ -39,7 +39,27 @@ app.post('/api/notes', (req, res) => {
       title,
       text,
       id: uuidv4()
-    }
+    };
+
+    notes.push(newNote);
+
+    const notesString = JSON.stringify(notes);
+
+    fs.writeFile('./db/db.json', notesString, (err) =>
+      err
+        ? console.error(err)
+        : console.log(`Note: ${newNote.title} has been written to storage`)
+    );
+
+    const response = {
+      status: 'success',
+      body: newNote,
+    };
+
+    console.log(response);
+    res.status(201).json(response);
+  } else {
+    res.status(500).json('Error in posting note');
   }
 
 });
