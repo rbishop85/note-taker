@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const fs = require('fs');
+const { v4: uuidv4 } = require('uuid');
 
 const notes = require('./db/db.json');
 
@@ -32,6 +33,14 @@ app.get('*', (req, res) =>
 app.post('/api/notes', (req, res) => {
 
   const { title, text } = req.body;
+
+  if(title && text) {
+    const newNote = {
+      title,
+      text,
+      id: uuidv4()
+    }
+  }
 
 });
     // accepting new note
