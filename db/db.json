@@ -33,5 +33,10 @@
         "title": "Another Test",
         "text": "Last test before merging",
         "id": "f33ae265-55e1-4bb4-991c-20e42e7c7ef1"
+    },
+    {
+        "title": "New Test",
+        "text": "Testing new middleware",
+        "id": "6da779a2-da5b-437b-86fa-abe5c23d4432"
     }
 ]
