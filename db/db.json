@@ -1,15 +1,5 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "1"
-    },
-    {
-        "title": "Test Title 2",
-        "text": "Test text 2",
-        "id": "2"
-    },
-    {
         "title": "Trash",
         "text": "Make sure to take out the trash!",
         "id": "37855a1f-21ab-42da-80a2-03d259c811c5"
@@ -38,5 +28,10 @@
         "title": "New Test",
         "text": "Testing new middleware",
         "id": "6da779a2-da5b-437b-86fa-abe5c23d4432"
+    },
+    {
+        "title": "Test",
+        "text": "Making sure I didn't break it!",
+        "id": "16083c0e-2f3d-44ba-973b-b045c76f00d6"
     }
 ]
