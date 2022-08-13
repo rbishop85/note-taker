@@ -1,15 +1,5 @@
 [
     {
-        "title": "Trash",
-        "text": "Make sure to take out the trash!",
-        "id": "37855a1f-21ab-42da-80a2-03d259c811c5"
-    },
-    {
-        "title": "Mop",
-        "text": "Mop the floor",
-        "id": "8cebbc70-8299-48ca-a984-3e20dcc977fc"
-    },
-    {
         "title": "Test Note",
         "text": "Testing modular routing for creating new notes",
         "id": "fcf4bea5-026c-41ac-a572-e6d8ff5b8f81"
