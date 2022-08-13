@@ -1,15 +1,5 @@
 [
     {
-        "title": "Test Note",
-        "text": "Testing modular routing for creating new notes",
-        "id": "fcf4bea5-026c-41ac-a572-e6d8ff5b8f81"
-    },
-    {
-        "title": "Pretty",
-        "text": "Testing that the new db.json file looks prettier",
-        "id": "b4ef5da9-86b7-40de-9dee-2af259d0e92f"
-    },
-    {
         "title": "Another Test",
         "text": "Last test before merging",
         "id": "f33ae265-55e1-4bb4-991c-20e42e7c7ef1"
@@ -23,5 +13,10 @@
         "title": "Test",
         "text": "Making sure I didn't break it!",
         "id": "16083c0e-2f3d-44ba-973b-b045c76f00d6"
+    },
+    {
+        "title": "Adding a new note",
+        "text": "Changed router setup, checking that adding notes still works",
+        "id": "dd3d55b9-bf98-4302-96c7-9011af305b33"
     }
 ]
