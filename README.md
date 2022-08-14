@@ -31,7 +31,7 @@ This project is intended as a homework assignment for class.  Questions, comment
 
 > Video demoing team profile generator in action.
 
-./assets/note-taker-demo.mp4
+https://github.com/rbishop85/note-taker/raw/main/assets/note-taker-demo.mp4
 
 ---
 
