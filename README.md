@@ -31,14 +31,13 @@ This project is intended as a homework assignment for class.  Questions, comment
 
 > Video demoing team profile generator in action.
 
-https://github.com/rbishop85/note-taker/blob/main/assets/note-taker-demo.mp4
+https://user-images.githubusercontent.com/103389448/184518293-799c5fe0-bee8-4a30-bbbb-ec835257788f.mp4
 
 ---
 
 ## Live App:
 
 The app is hosted live via Heroku <a href="https://rb-hw11-note-taker.herokuapp.com/" target="_blank">Here</a>.
-
 
 ---
 
